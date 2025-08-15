@@ -94,23 +94,6 @@
 </tr>
 </table>
 
----
-
-<div align="center">
- <h3>Let's Connect and Build Together! 🤝</h3>
- <p>Find me on these platforms:</p>
- <p>
-  <a href="https://www.linkedin.com/in/kuldeepkumar1207/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a> &nbsp;
-  <a href="https://www.hackerrank.com/profile/deepkul2002" target="_blank">
-    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
-  </a> &nbsp;
-  <a href="https://leetcode.com/u/superpanda077/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
-  </a>
- </p>
-</div>
 
 ---
 <div align="center">
@@ -153,6 +136,27 @@
 </p>
 
 </div>
+
+---
+
+
+<div align="center">
+ <h3>Let's Connect and Build Together! 🤝</h3>
+ <p>Find me on these platforms:</p>
+ <p>
+  <a href="https://www.linkedin.com/in/kuldeepkumar1207/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a> &nbsp;
+  <a href="https://www.hackerrank.com/profile/deepkul2002" target="_blank">
+    <img src="https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white" alt="HackerRank">
+  </a> &nbsp;
+  <a href="https://leetcode.com/u/superpanda077/" target="_blank">
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode">
+  </a>
+ </p>
+</div>
+
+---
 
 ### 📊 My GitHub Stats
 
